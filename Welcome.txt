@@ -1,0 +1,2 @@
+Welcome to the OER creation activity.
+We are planning to create a OER that helps students understand the process life cycle of a C program using GCC/GDB toolchain.
